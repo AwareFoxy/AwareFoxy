@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AwareFoxy
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning Kotlin and Swift
+- 🌱 I’m currently learning Swift and Mojo :fire:
 - 📫 How to reach me - you can write my discord (@awarefoxy)
 - 😄 Pronouns: He/Him
 
